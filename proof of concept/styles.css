@@ -1,0 +1,58 @@
+body
+{
+    text-align: center;
+    background-color:#141414;
+    margin: 0px;
+}
+.back{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(images/green-leaves-ferns-leaf-background-spring-closeup-5k-4830x3150-2445.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+#notes
+{
+    text-align: left;
+    color: rgb(157, 255, 0);
+}
+h1
+{
+   
+    color:rgb(157, 255, 0);
+    font-family: 'Roboto', sans-serif;
+    font-size: 45px;
+    padding-top: 20px;
+    
+    
+
+}
+h1>img
+{
+    width:60px;
+    height: auto;
+    margin-left:15px;
+    margin-top:25px;
+}
+h3
+{
+    color: rgb(155, 252, 0);
+}
+#recording-instructions
+{
+    color: rgb(157, 255, 0);
+}
+.page-description
+{
+    color:rgb(157, 255, 0);
+}
+
+.arrow > img
+{
+    width:90px;
+    height: 90px;
+    position: absolute;
+    left:650px;
+    top:500px;
+}
